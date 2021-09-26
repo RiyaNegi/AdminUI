@@ -1,0 +1,17 @@
+.ant-modal-mask {
+  background-color: rgba(0, 0, 0, 0.144) !important;
+}
+.ant-modal-content {
+  border-radius: 13px;
+  width: 450px;
+}
+.input-bar {
+  margin-bottom: 10px;
+  margin-top: -4px;
+}
+.ant-select-selector {
+  width: 100%;
+}
+.input-select {
+  width: 100%;
+}
