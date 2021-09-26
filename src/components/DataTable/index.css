@@ -4,12 +4,12 @@
   align-items: center;
   flex-direction: column;
   height: 90vh;
-  width: 90vw;
+  width: 95vw;
   margin: 30px;
 }
 .data-table {
   height: 80vh;
-  width: 80vw;
+  width: 90vw;
 }
 .ant-table-thead > tr > th {
   font-weight: 800 !important;
