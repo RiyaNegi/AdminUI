@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AdminUI/static/css/main.8ad56e7a.chunk.css",
+    "main.js": "/AdminUI/static/js/main.d26b8134.chunk.js",
+    "main.js.map": "/AdminUI/static/js/main.d26b8134.chunk.js.map",
+    "runtime-main.js": "/AdminUI/static/js/runtime-main.456d72d0.js",
+    "runtime-main.js.map": "/AdminUI/static/js/runtime-main.456d72d0.js.map",
+    "static/css/2.46925b27.chunk.css": "/AdminUI/static/css/2.46925b27.chunk.css",
+    "static/js/2.f1fd87e8.chunk.js": "/AdminUI/static/js/2.f1fd87e8.chunk.js",
+    "static/js/2.f1fd87e8.chunk.js.map": "/AdminUI/static/js/2.f1fd87e8.chunk.js.map",
+    "index.html": "/AdminUI/index.html",
+    "static/css/2.46925b27.chunk.css.map": "/AdminUI/static/css/2.46925b27.chunk.css.map",
+    "static/css/main.8ad56e7a.chunk.css.map": "/AdminUI/static/css/main.8ad56e7a.chunk.css.map",
+    "static/js/2.f1fd87e8.chunk.js.LICENSE.txt": "/AdminUI/static/js/2.f1fd87e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.456d72d0.js",
+    "static/css/2.46925b27.chunk.css",
+    "static/js/2.f1fd87e8.chunk.js",
+    "static/css/main.8ad56e7a.chunk.css",
+    "static/js/main.d26b8134.chunk.js"
+  ]
+}
